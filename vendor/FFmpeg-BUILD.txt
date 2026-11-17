@@ -1,0 +1,5 @@
+Bundled component: FFmpeg arm64
+FFmpeg runtime version shown by the binary: 9.0.2
+Build provenance: copied from the locally installed MFLAC Converter 1.2 app bundle.
+The binary identifies itself as a GPL build. FFmpeg upstream source: https://ffmpeg.org/download.html
+The exact local binary is supplied in this repository under vendor/ffmpeg-arm64.
